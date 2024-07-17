@@ -6,7 +6,7 @@ GIST 특훈 교수 송영민 교수 강연(다산홀, 9월 3일 화요일 오후
 
 |Week|Thursday (PM 4:00)|Friday (PM 2:30)|Speaker|Affiliation|E-mail address|Title|Host|Language|Remark|
 |---|---|---|---|---|---|---|---|---|---|
-|W1|9월 5일|9월 6일|
+|W1|9월 5일|**9월 6일**|이현우 교수|KENTECH 에너지공학부|hwlee@kentech.ac.kr|TLS in Practice and Research Topics|소순범 교수|영어
 |W2|9월 12일|9월 13일|
 |W3|N/A(추석)|N/A(추석)|
 |W4|9월 26일|**9월 27일**|차형연 선임연구원|한국에너지기술원|hcha@kier.re.kr|차세대 리튬 이온전지 소재 연구|황의석 교수|?
