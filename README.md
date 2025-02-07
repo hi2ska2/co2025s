@@ -1,8 +1,6 @@
-# co2024f
+# co2025s
 
 GIST EECS
-
-GIST 특훈 교수 송영민 교수 강연(다산홀, 9월 3일 화요일 오후 1시부터)도 출석 인정
 
 |Week|Thursday (PM 4:00)|Friday (PM 2:30)|Speaker|Affiliation|E-mail address|Title|Host|Language|Remark|
 |---|---|---|---|---|---|---|---|---|---|
