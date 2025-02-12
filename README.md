@@ -2,6 +2,12 @@
 
 GIST EECS
 
+추천 연사 목록
+성균관대학교 홍영준 교수 (이동선 교수. 날짜 미정)
+??? (함병승 교수. 날짜 미정)
+KAIST 양희준 교수 (신현진 교수. 날짜 미정)
+UNIST 권지민 교수 (신현진 교수. 날짜 미정)
+
 |Week|Thursday (PM 4:00)|Friday (PM 2:30)|Speaker|Affiliation|E-mail address|Title|Host|Language|Remark|
 |---|---|---|---|---|---|---|---|---|---|
 |W1|N/A|N/A|
