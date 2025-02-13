@@ -3,15 +3,15 @@
 GIST EECS
 
 추천 연사 목록
-성균관대학교 홍영준 교수 (이동선 교수. 날짜 미정)
 UNIST 권지민 교수 (신현진 교수. 날짜 미정)
+KENTECH 이진호 교수 (이윤수 교수. Introduction to DC power grids: Perspective of power system operation. 날짜 미정)
 
 |Week|Thursday (PM 4:00)|Friday (PM 2:30)|Speaker|Affiliation|E-mail address|Title|Host|Language|Remark|
 |---|---|---|---|---|---|---|---|---|---|
 |W1|N/A|N/A|
 |W2|3월 13일|3월 14일|
 |W3|3월 20일|**3월 21일**|Michael Raymer 교수|University of Oregon|||함병승|영어|온라인
-|W4|3월 27일|3월 28일|
+|W4|3월 27일|**3월 28일**|노용영 교수|포항공과대학교|||송영민 
 |W5|4월 3일|**4월 4일**|홍영준 교수|성균관대학교|||이동선|
 |W6|4월 10일|4월 11일|
 |W7|N/A(중간고사 전주)|N/A(중간고사 전주)|
