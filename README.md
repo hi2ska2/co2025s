@@ -5,6 +5,7 @@ GIST EECS
 추천 연사 목록
 UNIST 권지민 교수 (신현진 교수. 날짜 미정)
 KENTECH 이진호 교수 (이윤수 교수. Introduction to DC power grids: Perspective of power system operation. 날짜 미정)
+박광기 소장 (임춘택 교수. 날짜 미정)
 
 |Week|Thursday (PM 4:00)|Friday (PM 2:30)|Speaker|Affiliation|E-mail address|Title|Host|Language|Remark|
 |---|---|---|---|---|---|---|---|---|---|
