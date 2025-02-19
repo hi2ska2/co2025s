@@ -9,7 +9,7 @@ GIST EECS
 |W3|3월 20일|**3월 21일**|Michael Raymer 교수|University of Oregon|||함병승|영어|온라인
 |W4|3월 27일|**3월 28일**|노용영 교수|포항공과대학교|yynoh@postech.ac.kr|Development of high-performance p-type transistors|송영민|영어
 |W5|4월 3일|**4월 4일**|홍영준 교수|성균관대학교|||이동선|
-|W6|**4월 10일**|4월 11일|박광기 소장|뉴패러다임연구소|||임춘택
+|W6|**4월 10일**|4월 11일|박광기 소장|뉴패러다임연구소|hungerzero2023@gmail.com|산업한류혁명과 제2창업시대|임춘택|한국어
 |W7|N/A(중간고사 전주)|N/A(중간고사 전주)|
 |W8|N/A(중간고사)|N/A(중간고사)|
 |W9|N/A(근로자의 날)|N/A(연휴기간)|
